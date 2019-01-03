@@ -1,9 +1,11 @@
 KDL Wagtail Page
+================
 
 Very basic but reusable Wagtail page models for KDL projects.
-
 The idea is to have a single code base for our Wagtail components.
+
 => we can just install and use, no coding necessary for simple use cases
+
 => we don't have to maintain and upgrade a lot of small variants of the same
 code which was copied and adapted for each project
 
