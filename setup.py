@@ -9,7 +9,6 @@ setup(
     license='MIT',
     description='Basic but reusable Wagtail page models for KDL projects',
     install_requires=['wagtail>=2.0'],
-    description=open('README.txt').read(),
     long_description=open('README.rst').read(),
     python_requires='>3.5',
 )
