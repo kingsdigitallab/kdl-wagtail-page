@@ -11,4 +11,5 @@ setup(
     install_requires=['wagtail>=2.0'],
     long_description=open('README.rst').read(),
     python_requires='>3.5',
+    url='https://github.com/kingsdigitallab/kdl-wagtail-page',
 )
