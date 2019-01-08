@@ -12,4 +12,6 @@ setup(
     long_description=open('README.rst').read(),
     python_requires='>3.5',
     url='https://github.com/kingsdigitallab/kdl-wagtail-page',
+    author='Geoffroy Noel',
+    author_email='geoffroy.noel@kcl.ac.uk',
 )
