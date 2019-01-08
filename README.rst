@@ -2,6 +2,13 @@ KDL Wagtail Page
 ================
 
 Very basic but reusable Wagtail page models for KDL projects.
+
+Install it with pip or pipenv using the following package name:
+
+kdl-wagtail-page
+
+Requirements: wagtail 2+, django 2+, python 3.5+
+
 The idea is to have a single code base for our Wagtail components.
 
 => we can just install and use, no coding necessary for simple use cases
