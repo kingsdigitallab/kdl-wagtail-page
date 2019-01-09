@@ -26,5 +26,5 @@ For contributors:
 * keep it backward-compatible
 * automate the upgrades
 * keep it compatible with wagtail and Django 2
-* keep it compatible with barebones base.html template blocks
+* keep it compatible with kdl-bare-bones base.html template blocks
 
